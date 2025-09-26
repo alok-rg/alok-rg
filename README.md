@@ -29,8 +29,8 @@ src="https://img.shields.io/github/followers/Beast-Alok?logo=github&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Beast-Alok"><img src="https://github-readme-stats.vercel.app/api?username=Beast-Alok&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Beast-Alok's GitHub stats" /></a>
+<a href="http://www.github.com/alok-rg"><img src="https://github-readme-stats.vercel.app/api?username=alok-rg&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alok-rg's GitHub stats" /></a>
 
-<a href="http://www.github.com/Beast-Alok"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Beast-Alok&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/alok-rg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alok-rg&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Beast-Alok" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beast-Alok&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/alok-rg" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-rg&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
